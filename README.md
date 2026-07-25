@@ -88,3 +88,9 @@ python exercise-3-recycling-robot/recycling_robot.py --alpha 0.5 --beta 0.5 --ga
 ## Author
 
 Amirreza Ghaffarian — M.Sc. student in Artificial Intelligence and Robotics.
+
+---
+
+## فارسی
+
+این مخزن شامل کد و مستندات پروژهٔ **reinforcement-learning-assignments-2-3** است. برای نصب، اجرا و جزئیات فنی، دستورهای بخش انگلیسی را دنبال کنید.
